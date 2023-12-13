@@ -24,4 +24,4 @@ echo $xmlBook;
 
 ## Результат
 
-![XML разметка книги](/home/nikita/work/fb2-book/docs/images/fb2-book-xml.png)
+![](./docs/images/fb2-book-xml.png)

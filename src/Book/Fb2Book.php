@@ -4,15 +4,15 @@ namespace Nigo\Fb2Book;
 
 class Fb2Book
 {
-    private string $authorFirstName;
+    private string $authorFirstName = '';
 
-    private string $authorLastName;
+    private string $authorLastName = '';
 
-    private string $annotation;
+    private string $annotation = '';
 
-    private string $lang;
+    private string $lang = '';
 
-    private string $title;
+    private string $title = '';
 
     private string $text = '';
 

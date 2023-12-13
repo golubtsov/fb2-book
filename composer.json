@@ -1,0 +1,20 @@
+{
+    "name": "nigo/fb2-book",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nigo\\Fb2Book\\": "src/Book"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikita",
+            "email": "nproger781@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8",
+        "larapack/dd": "^1.1"
+    }
+}

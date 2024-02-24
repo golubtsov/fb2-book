@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "nikita",
-            "email": "nproger781@gmail.com"
+            "name": "Nikita Golubtsov",
+            "url": "https://github.com/golubtsov/fb2-book"
         }
     ],
     "require": {

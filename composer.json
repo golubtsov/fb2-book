@@ -1,20 +1,20 @@
 {
-    "name": "nigo/fb2-book",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Nigo\\Fb2Book\\": "src/Book"
-        }
-    },
-    "authors": [
-        {
-            "name": "Nikita Golubtsov",
-            "url": "https://github.com/golubtsov/fb2-book"
-        }
-    ],
-    "require": {
-        "php": ">=8",
-        "larapack/dd": "^1.1"
+  "name": "nigo/fb2-book",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Nigo\\Fb2Book\\": "src/Book"
     }
+  },
+  "authors": [
+    {
+      "name": "Nikita Golubtsov",
+      "homepage": "https://github.com/golubtsov/fb2-book"
+    }
+  ],
+  "require": {
+    "php": ">=8",
+    "larapack/dd": "^1.1"
+  }
 }

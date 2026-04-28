@@ -15,6 +15,9 @@
   ],
   "require": {
     "php": ">=8",
+    "ext-dom": "*"
+  },
+  "require-dev": {
     "larapack/dd": "^1.1"
   }
 }
